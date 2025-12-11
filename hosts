@@ -1,6 +1,6 @@
 # Title: jmd-au/hosts
 #
-# Date: 29 August 2023
+# Date: 11 December 2025 (last updated)
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/jmd-au/pi-hole-hosts/master/hosts
 # Project home page: https://github.com/jmd-au/pi-hole-hosts
@@ -13,7 +13,109 @@
 #
 # ------------------------------------
 
+# ------------------------------------
+#
+#   AI Blocks
+#
+# ------------------------------------
 
+0.0.0.0 animalia-life.club
+0.0.0.0 anythingtranslate.com
+0.0.0.0 astronymero.com
+0.0.0.0 bible.art
+0.0.0.0 castordoc.com
+0.0.0.0 celestialinspire.com
+0.0.0.0 chat01.ai
+0.0.0.0 chat4o.ai
+0.0.0.0 clipart-library.com
+0.0.0.0 cloudzy.com
+0.0.0.0 codelucky.com
+0.0.0.0 coderabbit.ai
+0.0.0.0 cognition.ai
+0.0.0.0 computours.net
+0.0.0.0 creativefabrica.com
+0.0.0.0 cubesolver.ai
+0.0.0.0 deepseek.com
+0.0.0.0 designbundles.net
+0.0.0.0 devin.ai
+0.0.0.0 devin-ai.ai
+0.0.0.0 discovertheai.com
+0.0.0.0 documentdrivendevelopment.com
+0.0.0.0 documentationdrivendevelopment.ai
+0.0.0.0 dongaigc.com
+0.0.0.0 duck.ai
+0.0.0.0 dreammachineai.online
+0.0.0.0 dreamstime.com
+0.0.0.0 dtptips.com
+0.0.0.0 easywithai.com
+0.0.0.0 easy-peasy.ai
+0.0.0.0 egyptmythology.com
+0.0.0.0 engineeredwithai.com
+0.0.0.0 engineerwithaitech.com
+0.0.0.0 englishoverview.com
+0.0.0.0 emojis.com
+0.0.0.0 emtudodesign.com
+0.0.0.0 enviroliteracy.org
+0.0.0.0 flux-ai.io
+0.0.0.0 flux-pro.net
+0.0.0.0 geekchamp.com
+0.0.0.0 geeksforgeeks.org
+0.0.0.0 gitscripts.com
+0.0.0.0 glarity.app
+0.0.0.0 grokimagegenerator.net
+0.0.0.0 halonex.app
+0.0.0.0 hometheaterreviewpro.com
+0.0.0.0 inspiredpencil.com
+0.0.0.0 ihavecrayon.com
+0.0.0.0 leveluptalk.com
+0.0.0.0 livereach.com
+0.0.0.0 livereach.ai
+0.0.0.0 lumende.com
+0.0.0.0 minervadb.xyz
+0.0.0.0 mindfulchase.com
+0.0.0.0 mysterylores.com
+0.0.0.0 netwrck.com
+0.0.0.0 nextberry.de
+0.0.0.0 numberanalytics.com
+0.0.0.0 objectiondecroissance.org
+0.0.0.0 onelitefeather.net
+0.0.0.0 oryoy.com
+0.0.0.0 peerdh.com
+0.0.0.0 pevgrow.com
+0.0.0.0 poultryhatch.com
+0.0.0.0 prompt-llama.com
+0.0.0.0 reactor.cc
+0.0.0.0 realitypathing.com
+0.0.0.0 renovables.blog
+0.0.0.0 scisimple.com
+0.0.0.0 shiftychevre.com
+0.0.0.0 shungrill.com
+0.0.0.0 sightlessdev.com
+0.0.0.0 softstrix.com
+0.0.0.0 songtell.com
+0.0.0.0 siliconangle.com
+0.0.0.0 spiritualfile.com
+0.0.0.0 squash.io
+0.0.0.0 startpage.com
+0.0.0.0 studyraid.com
+0.0.0.0 tap4.ai
+0.0.0.0 tattooai.design
+0.0.0.0 tattooyeah.com
+0.0.0.0 tecnobits.com
+0.0.0.0 thebiblechat.com
+0.0.0.0 thegamingmecca.com
+0.0.0.0 thejesusai.com
+0.0.0.0 thelinuxcode.com
+0.0.0.0 thetechylife.com
+0.0.0.0 timesmojo.com
+0.0.0.0 toolsify.ai
+0.0.0.0 topicbarn.com
+0.0.0.0 uef.org
+0.0.0.0 umatechnology.org
+0.0.0.0 vibelf.com
+0.0.0.0 warp.dev
+0.0.0.0 webscraping.ai
+0.0.0.0 windowsforum.com
 
 # ------------------------------------
 #
